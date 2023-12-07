@@ -20,7 +20,7 @@ public class MenuManager : MonoBehaviour
 
     public void PreGuerraFria()
     {
-        SceneManager.LoadScene(nomeDoLevelDeJogo);
+        SceneManager.LoadScene(1);
     }
 
     IEnumerator trocaPainel()
